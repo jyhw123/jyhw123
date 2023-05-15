@@ -6,9 +6,7 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on building my web dev skills!
-- 🌱 I’m currently learning the MERN stack.
-- 💬 Ask me about my favourite VS Code Color Theme.
+
 - 📫 How to reach me: jyap039@e.ntu.edu.sg
 - 😄 Pronouns: He/Him
 <p> </p>
